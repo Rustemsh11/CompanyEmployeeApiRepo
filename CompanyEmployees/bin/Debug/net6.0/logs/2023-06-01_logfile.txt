@@ -1,0 +1,6 @@
+2023-06-01 11:41:23.5735 INFO Here is info message from our values controller
+2023-06-01 11:41:23.7294 DEBUG Here is debug message from our values controller
+2023-06-01 11:41:23.7294 WARN Here is warn message from our values controller
+2023-06-01 11:41:23.7294 ERROR Here is error message from our values controller
+2023-06-01 11:44:14.3703 ERROR Object reference not set to an instance of an object.
+2023-06-01 11:45:22.0731 ERROR Object reference not set to an instance of an object.

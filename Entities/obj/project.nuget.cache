@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jg/Q5RrygO9VXinwFIdT4MGIGX2bxc1atlUdp8swL1h2fLMj/3c3ZvqfCg9s7tO337sFt1lhcV7vObqkZwj7DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\агроном\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\агроном\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\агроном\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\агроном\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\агроном\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\агроном\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\агроном\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

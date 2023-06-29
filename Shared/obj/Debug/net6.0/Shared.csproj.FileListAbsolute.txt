@@ -1,0 +1,12 @@
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.deps.json
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.dll
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.pdb
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
+C:\Users\агроном\source\repos\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll
